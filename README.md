@@ -1,1 +1,1 @@
-https://github.com/moradoshka/rsschool-cv/blob/gh-pages/cv.md
+https://moradoshka.github.io/rsschool-cv/
