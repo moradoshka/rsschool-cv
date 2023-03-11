@@ -1,1 +1,1 @@
-https://moradoshka.github.io/rsschool-cv/
+# rsschool-cv
